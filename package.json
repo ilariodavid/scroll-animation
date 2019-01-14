@@ -1,0 +1,19 @@
+{
+  "name": "scroll-animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/statelessbr/scroll-animation.git"
+  },
+  "author": "ilario.david",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/statelessbr/scroll-animation/issues"
+  },
+  "homepage": "https://github.com/statelessbr/scroll-animation#readme"
+}
